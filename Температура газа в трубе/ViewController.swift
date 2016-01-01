@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var TempVhod: UITextField!
+    @IBOutlet weak var TempVhod: UITextField!   
     @IBOutlet weak var ObemRashod: UITextField!
     @IBOutlet weak var DlinaTrubi: UITextField!
     @IBOutlet weak var DiametrTrubi: UITextField!
